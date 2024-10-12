@@ -1,4 +1,9 @@
 # Chat with Hugging Face
+Home Page
+
+![image](https://github.com/user-attachments/assets/8b5df61d-72bd-4e74-9735-e3e0b499704b)
+
+Chat Interface
 
 This is a Streamlit-based application that allows users to interact with Hugging Face models for various tasks such as image generation, text classification, summarization, and translation. The application is powered by the Hugging Face `transformers` and `diffusers` libraries, and uses the Stable Diffusion model for image generation.
 
@@ -23,3 +28,13 @@ This is a Streamlit-based application that allows users to interact with Hugging
    ```bash
    git clone https://github.com/your-username/chat-with-hugging-face.git
    cd chat-with-hugging-face
+
+
+
+### Steps to complete:
+
+1. **Update placeholders**: Replace `your_hugging_face_token` and the repository URL (`your-username/chat-with-hugging-face`) with the actual values.
+2. **Add screenshots**: Take screenshots of your running app (for example, showing the interface with generated images, text classification, etc.) and save them in a folder named `screenshots`. Update the image paths accordingly in the `README.md`.
+
+Let me know if you'd like more details!
+
