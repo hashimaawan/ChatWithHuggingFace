@@ -31,10 +31,5 @@ This is a Streamlit-based application that allows users to interact with Hugging
 
 
 
-### Steps to complete:
 
-1. **Update placeholders**: Replace `your_hugging_face_token` and the repository URL (`your-username/chat-with-hugging-face`) with the actual values.
-2. **Add screenshots**: Take screenshots of your running app (for example, showing the interface with generated images, text classification, etc.) and save them in a folder named `screenshots`. Update the image paths accordingly in the `README.md`.
-
-Let me know if you'd like more details!
 
